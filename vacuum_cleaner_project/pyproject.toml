@@ -1,0 +1,8 @@
+[project]
+name = "vacuum-cleaner-project"
+version = "1.0.0"
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "matplotlib>=3.7",
+]
