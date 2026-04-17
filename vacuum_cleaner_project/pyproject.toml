@@ -1,6 +1,7 @@
 [project]
 name = "vacuum-cleaner-project"
 version = "1.0.0"
+requires-python = ">=3.13"
 dependencies = [
     "numpy>=1.24",
     "pandas>=2.0",
