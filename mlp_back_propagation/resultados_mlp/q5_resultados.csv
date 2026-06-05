@@ -1,0 +1,6 @@
+Conjunto de Atributos,N Atributos,Loss Treino,Loss Val.,Acc Val.,F1 Val.,F1 Teste,Tempo (s)
+Todos (16),16,0.1502,0.1843,0.9399,0.9488,0.9391,4.4
+Top 12 permutação,12,0.1602,0.1743,0.9348,0.945,0.9393,4.27
+Top 8 permutação,8,0.174,0.1807,0.9353,0.9446,0.9352,4.18
+Sem alta corr.,9,0.1507,0.1828,0.9316,0.9419,0.94,4.31
+Aleatório (5),5,0.2112,0.199,0.9334,0.9442,0.9277,4.13

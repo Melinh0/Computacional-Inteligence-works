@@ -1,0 +1,5 @@
+Topologia,Camadas,Neurônios/Camada,F1-Macro Val.,Loss Val. Final,Tempo (s)
+1x100,1,100,0.9477,0.1791,5.3
+1x80,1,80,0.947,0.1761,4.87
+1x10,1,10,0.9468,0.1821,2.04
+1x30,1,30,0.9455,0.1769,5.82
