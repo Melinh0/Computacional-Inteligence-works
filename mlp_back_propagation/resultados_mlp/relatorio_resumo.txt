@@ -35,5 +35,5 @@ Q7 – VALIDAÇÃO CRUZADA
   k = 10 folds estratificados
   Veja q7_resultados_folds.csv e q7_estatisticas.csv
 
-Arquivos gerados em: /home/davioliveira/projects/univ/Computacional-Inteligence-works/mlp_back_propagation/resultados_mlp
+Arquivos gerados em: mlp_back_propagation\resultados_mlp
 =================================================================
